@@ -1,0 +1,28 @@
+from bs4 import BeautifulSoup
+from requests import get
+import csv
+
+URL = "https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie%2Crynek-wtorny/slaskie/czestochowa/czestochowa/czestochowa?limit=72&ownerTypeSingleSelect=ALL&by=DEFAULT&direction=DESC&viewType=listing"
+
+
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+}
+
+page = get(URL, headers=headers)
+soup = BeautifulSoup(page.content, 'html.parser')
+
+
+with open("plik.csv", "w", newline="", encoding="utf-8") as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(["Numer", "Link"])
+
+    for i, oferta in enumerate(soup.find_all('article', class_='css-136g1q2 eg92do40'), start=1):
+        link = oferta.find('a', attrs={'data-cy': 'listing-item-link'})
+
+        if link:
+            writer.writerow([i, link.get('href')])
+            print(link.get('href'))
+        else:
+            print(f"Nie znaleziono linku dla oferty nr {i}")
+

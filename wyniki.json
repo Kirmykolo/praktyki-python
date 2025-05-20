@@ -1,0 +1,610 @@
+[
+    {
+        "price": "259 000 zł",
+        "price_per_m2": "5 170 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m3-z-potencjalem-do-wlasnej-aranzacji-ID4vkil",
+        "district": "al. Aleja Armii Krajowej, Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "649 000 zł",
+        "price_per_m2": "9 026 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/mieszkanie-parkitka-ID4wZaO",
+        "district": "ul. Mazowiecka, Parkitka, Częstochówka-Parkitka, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "405 000 zł",
+        "price_per_m2": "6 439 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/mieszkanie-m4-piwnica-63-m2-polnoc-bezposrednio-ID4whMk",
+        "district": "ul. Kukuczki, Północ, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "385 000 zł",
+        "price_per_m2": "7 176 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/mieszkanie-na-sprzedaz-tysiaclecie-ID4vsX0",
+        "district": "Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "319 000 zł",
+        "price_per_m2": "5 779 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m4-balkon-blisko-uczelni-i-centrum-czartoryskiego-ID4sxxL",
+        "district": "Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "373 000 zł",
+        "price_per_m2": "8 674 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/mieszkanie-43-m-czestochowa-ID4vsQJ",
+        "district": "Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "399 000 zł",
+        "price_per_m2": "5 868 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/przestronne-m-4-po-remoncie-68m2-parter-ID4vsQM",
+        "district": "Raków, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "328 000 zł",
+        "price_per_m2": "7 039 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m4-po-remoncie-na-sprzedaz-ID4u4gC",
+        "district": "Ostatni Grosz, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "319 000 zł",
+        "price_per_m2": "6 510 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m3-na-sprzedaz-w-doskonalej-lokalizacji-na-polnocy-ID4vlKg",
+        "district": "Północ, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "330 000 zł",
+        "price_per_m2": "6 735 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m3-centrum-kolo-jasnej-gory-ID4wxkE",
+        "district": "Śródmieście, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "215 000 zł",
+        "price_per_m2": "7 015 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m2-kontkiewicza-na-sprzedaz-ID4wrDA",
+        "district": "Aniołów, Wyczerpy-Aniołów, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "375 000 zł",
+        "price_per_m2": "7 353 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/piekne-m3-polnoc-po-remoncie-ID4wxqV",
+        "district": "Północ, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "248 000 zł",
+        "price_per_m2": "7 294 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/piekne-m2-na-polnocy-ID4wBaf",
+        "district": "Północ, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "259 000 zł",
+        "price_per_m2": "6 167 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m3-centrum-dwa-pokoje-okazja-ID4v4bJ",
+        "district": "Śródmieście, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "690 000 zł",
+        "price_per_m2": "4 929 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/sprzedam-dom-w-zabudowie-szeregowej-ID4qEWt",
+        "district": "ul. Kołakowskiego, Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "320 000 zł",
+        "price_per_m2": "8 421 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/nalkowskiej-12-mieszkanie-na-parterze-ID4vmb3",
+        "district": "ul. Nałkowskiej, Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "499 000 zł",
+        "price_per_m2": "8 603 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/komfortowe-m4-na-i-pietrze-ID4wi6G",
+        "district": "Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "409 900 zł",
+        "price_per_m2": "6 698 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m4-z-duzym-balkonem-ul-orkana-2-pietro-ID4viy4",
+        "district": "Wrzosowiak, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "348 000 zł",
+        "price_per_m2": "7 280 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/sloneczne-2-pietro-polnoc-ID4vsFz",
+        "district": "Jarosława Iwaszkiewicza, Północ, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "409 000 zł",
+        "price_per_m2": "7 278 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m4-w-srodmiesciu-po-niedawnym-remoncie-ID4vpv6",
+        "district": "Śródmieście, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "369 000 zł",
+        "price_per_m2": "7 207 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/rezerwacja-trzypokojowe-na-parterze-z-balkonem-po-generalnym-remoncie-ID4vk9J",
+        "district": "ul. Bohaterów Katynia, Błeszno, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "193 000 zł",
+        "price_per_m2": "5 437 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/mieszkanie-w-dzielnicy-trzech-wieszczow-do-remontu-ID4vaZA",
+        "district": "ul. Zana, Trzech Wieszczów, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "375 000 zł",
+        "price_per_m2": "7 500 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/sloneczne-przestronne-mieszkanie-z-pieknym-widokiem-ID4wP26",
+        "district": "ul. Jana III Sobieskiego, Trzech Wieszczów, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "315 000 zł",
+        "price_per_m2": "6 563 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/sprzedam-m3-czestochowa-srodmiescie-ID4uqSm",
+        "district": "ul. Nadrzeczna, Stare Miasto, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "226 000 zł",
+        "price_per_m2": "6 027 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/zamieszkaj-wysoko-2-pokoje-na-8-pietrze-ID4vsxd",
+        "district": "al. Aleja Niepodległości, Ostatni Grosz, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "499 000 zł",
+        "price_per_m2": "8 603 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/3pokoje-na-tysiacleciu-oferta-premium-1pietro-ID4w5Ge",
+        "district": "Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "605 000 zł",
+        "price_per_m2": "6 775 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/mieszkanie-na-sprzedaz-polnoc-4-pokoje-89-3-m2-ID4wHHS",
+        "district": "ul. Michałowskiego, Północ, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "235 000 zł",
+        "price_per_m2": "4 590 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/dwustronne-m3-czestochowa-rakow-ii-pietro-ID4vsrO",
+        "district": "Raków, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "349 000 zł",
+        "price_per_m2": "6 345 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/bezposrednio-55m2-po-remoncie-2-pokoje-kuchnia-ID4vsqJ",
+        "district": "ul. Łukasińskiego, Raków, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "226 000 zł",
+        "price_per_m2": "5 885 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/na-sprzedaz-2-pokojowe-mieszkanie-czestochowa-ID4vsqz",
+        "district": "Trzech Wieszczów, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "179 000 zł",
+        "price_per_m2": "5 774 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m2-w-cichej-i-zielonej-okolicy-ID4vsqA",
+        "district": "Wrzosowiak, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "320 000 zł",
+        "price_per_m2": "6 667 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/nowoczesne-m-3-na-wrzosowiaku-ID4uXvP",
+        "district": "Wrzosowiak, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "499 000 zł",
+        "price_per_m2": "8 478 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/komfortowe-m-3-polnoc-blok-z-2009-roku-ID4wmdf",
+        "district": "Północ, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "285 000 zł",
+        "price_per_m2": "6 305 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/przytulne-mieszkanie-ID4vjI2",
+        "district": "ul. Księżycowa, Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "480 000 zł",
+        "price_per_m2": "8 421 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/trzypokojowe-na-parterze-ID4vsjw",
+        "district": "Śródmieście, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "439 000 zł",
+        "price_per_m2": "6 456 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m-4-jasnogorska-68m2-loggia-parking-stan-bdb-ID4vsgZ",
+        "district": "Śródmieście, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "249 000 zł",
+        "price_per_m2": "8 300 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/kawalerka-super-lokalizacja-pod-inwestycje-ID4uKrk",
+        "district": "Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "298 990 zł",
+        "price_per_m2": "5 750 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/mieszkanie-52m-czestochowa-polnoc-b-ID4wrzD",
+        "district": "Północ, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "379 000 zł",
+        "price_per_m2": "8 168 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/mieszkanie-swiezo-po-generalnym-remoncie-1pietro-tysiaclecie-ID4v8vS",
+        "district": "ul. Wodzickiego, Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "359 000 zł",
+        "price_per_m2": "5 790 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m4-na-polnocy-z-pieknym-krajobrazem-za-oknem-ID4vqCJ",
+        "district": "Północ, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "175 000 zł",
+        "price_per_m2": "4 784 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/mieszkanie-2-pokoje-1-pietro-w-bloku-czestochowa-ID4upSu",
+        "district": "ul. Perla 35, Raków, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "359 000 zł",
+        "price_per_m2": "4 891 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/przestronne-doswietlone-balkon-blisko-centrum-ID4vhML",
+        "district": "ul. Kilińskiego, Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "189 000 zł",
+        "price_per_m2": "5 167 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/mieszkanie-2-pokoje-1-pietro-w-bloku-czestochowa-ID4wswJ",
+        "district": "ul. Perla, Raków, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "269 000 zł",
+        "price_per_m2": "5 823 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/do-negocjacji-m3-tysiaclecie-niski-blok-2-pietro-ID4vs00",
+        "district": "Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "320 000 zł",
+        "price_per_m2": "5 424 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m4-59m2-parter-czestochowa-ID4vkl6",
+        "district": "Błeszno, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "365 000 zł",
+        "price_per_m2": "7 783 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/przytulne-2-pokoje-gotowe-do-wprowadzenia-ID4vrXe",
+        "district": "Północ, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "287 000 zł",
+        "price_per_m2": "7 175 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/2-pokoje-po-remoncie-1-pietro-al-wojska-polskiego-ID4u7c6",
+        "district": "Raków, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "395 000 zł",
+        "price_per_m2": "9 122 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/tysiaclecie-wysoki-standard-2-pokoje-po-generalnym-remoncie-ID4vo8Q",
+        "district": "ul. Michałowicza, Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "237 000 zł",
+        "price_per_m2": "6 237 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/czestochowa-rakow-2-pokoje-38-m-ID4vrSm",
+        "district": "al. Aleja Wojska Polskiego, Wyczerpy-Aniołów, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "225 000 zł",
+        "price_per_m2": "10 227 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/kawalerka-blisko-centrum-ID4vrRI",
+        "district": "Stare Miasto, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "185 000 zł",
+        "price_per_m2": "6 607 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m2-28-mkw-srodmiescie-ul-focha-blok-1-pietro-ID4wRo9",
+        "district": "Śródmieście, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "390 000 zł",
+        "price_per_m2": "6 000 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/mieszkanie-w-cichej-dzielnicy-wyczerpy-ID4uIhA",
+        "district": "ul. Kontkiewicza, Wyczerpy, Wyczerpy-Aniołów, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "286 999 zł",
+        "price_per_m2": "5 915 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/okazja-2-pokoje-niski-czynsz-srodmiescie-ID4wUrL",
+        "district": "Trzech Wieszczów, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "795 000 zł",
+        "price_per_m2": "10 925 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/komfortowy-apartament-z-ogodkiem-w-stylu-boho-ID4v2oI",
+        "district": "ul. Poleska, Parkitka, Częstochówka-Parkitka, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "369 000 zł",
+        "price_per_m2": "5 857 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/super-lokalizacja-okolna-63mkw-ID4ucYy",
+        "district": "Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "178 000 zł",
+        "price_per_m2": "5 933 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/mieszkanie-30-m-czestochowa-ID4tSu2",
+        "district": "Raków, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "315 000 zł",
+        "price_per_m2": "8 289 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/2-pokoje-na-parterze-ID4vrt3",
+        "district": "Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "449 000 zł",
+        "price_per_m2": "6 897 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/przestronne-mieszkanie-do-zamieszkania-od-zaraz-ID4vrt4",
+        "district": "Trzech Wieszczów, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "205 000 zł",
+        "price_per_m2": "5 541 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/nowa-cena-kawalerka-blisko-jagiellonczykow-37-m2-duzy-pokoj-ID4saCg",
+        "district": "Zawodzie-Dąbie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "429 000 zł",
+        "price_per_m2": "8 004 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/parkitka-ul-mazowiecka-2-pokoje-i-antresola-ID4tjId",
+        "district": "Parkitka, Częstochówka-Parkitka, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "280 000 zł",
+        "price_per_m2": "5 773 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/do-sprzedania-m-3-ul-niepodleglosci-ID4vrst",
+        "district": "Wrzosowiak, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "259 000 zł",
+        "price_per_m2": "5 511 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m3-mickiewicza-zamykany-parking-46-4m2-ID4tTeF",
+        "district": "Trzech Wieszczów, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "248 000 zł",
+        "price_per_m2": "7 273 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/polnoc-dobrze-skomunikowane-promenada-niemena-ID4w1Uq",
+        "district": "Północ, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "330 000 zł",
+        "price_per_m2": "6 346 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/polnoc-przytulne-2-pokoje-52-m2-wyposazone-ID4wiaG",
+        "district": "Północ, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "386 400 zł",
+        "price_per_m2": "6 900 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/ustawne-2-pokoje-parkitka-mazowiecka-2-pietro-ID4wIyE",
+        "district": "Parkitka, Częstochówka-Parkitka, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "336 000 zł",
+        "price_per_m2": "6 222 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/2-pokoje-w-spokojnej-okolicy-54-m2-tysiaclecie-ID4wWmn",
+        "district": "Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "239 000 zł",
+        "price_per_m2": "12 520 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/kawalerka-po-remoncie-idealna-pod-najem-scisle-centrum-balkon-ID4vhHg",
+        "district": "Stare Miasto, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "359 000 zł",
+        "price_per_m2": "7 387 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/wyjatkowe-2-pokojowe-mieszkanie-sztukateria-i-cegla-parking-ID4vm51",
+        "district": "Raków, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "285 000 zł",
+        "price_per_m2": "6 856 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m-3-na-parterze-z-balkonem-wyczerpy-aniolow-ID4wAt8",
+        "district": "Wyczerpy, Wyczerpy-Aniołów, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "269 000 zł",
+        "price_per_m2": "5 173 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m4-parter-na-zareckiej-ID4oohE",
+        "district": "Raków, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "285 000 zł",
+        "price_per_m2": "5 938 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m3-do-wprowadzenia-z-balkonem-ID4v85W",
+        "district": "Raków, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "280 000 zł",
+        "price_per_m2": "6 195 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/m3-tysiaclecie-45-m-na-sprzedaz-ID4vrr9",
+        "district": "Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "327 000 zł",
+        "price_per_m2": "6 540 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/do-negocjacji-2-pokoje-tysiaclecie-balkon-ID4wfuI",
+        "district": "Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "395 000 zł",
+        "price_per_m2": "7 932 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/2-pokoje-blisko-centrum-ID4rFJ9",
+        "district": "Trzech Wieszczów, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "345 000 zł",
+        "price_per_m2": "6 635 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/pl/oferta/centrum-idealne-pod-wynajem-ID4wIo6",
+        "district": "Marszałka Józefa Piłsudskiego, Stare Miasto, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    },
+    {
+        "price": "385 000 zł",
+        "price_per_m2": "7 176 zł/m²",
+        "link_to_offer": "https://www.otodom.pl/hpr/pl/oferta/mieszkanie-na-sprzedaz-tysiaclecie-ID4vsX0",
+        "district": "Tysiąclecie, Częstochowa, śląskie",
+        "description": "Brak",
+        "parameters": []
+    }
+]
