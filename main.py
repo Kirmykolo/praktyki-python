@@ -1,22 +1,27 @@
 from bs4 import BeautifulSoup
 from requests import get
 import sys
-
 sys.stdout.reconfigure(encoding='utf-8')
 
-URL = 'https://www.onet.pl/'
+url = "https://www.bannerstop.com/produkte/banner-drucken/pvc-banner.html"
 
-page = get(URL)
-soup = BeautifulSoup(page.content, 'html.parser')
+lista = []
 
-# Pobranie wszystkich artykułów
-artykuly = soup.find_all("a", class_='Common_linkCardLink__cN081 SectionLink_linkStyle__xYsXd')
+page =get(url)
 
-# Filtrowanie tylko tych, które należą do sekcji "wiadomości"
-for artykul in artykuly:
-    data_gtm = artykul.get("data-gtm", "")  # Pobieramy atrybut "data-gtm"
+produkty = BeautifulSoup(page.content, 'html.parser')
+
+
+for produkt in produkty.find_all('div', class_='product-item-info'):
+    nazwa= produkt.find('a', 'product-item-link').get_text().strip()
+    sam_link=produkt.find('a', 'product photo product-item-photo').get('href')
+
+
     
-    if "news_" in data_gtm:  # Sprawdzamy, czy artykuł należy do sekcji "wiadomości"
-        naglowek = artykul.find('h3', class_='TitleWrapper_titleWrapper__7S_PA')
-        if naglowek:
-            print(naglowek.text.strip())
+    if nazwa and sam_link:
+       lista.append({
+           "nazwa_produktu": nazwa,
+           "link": sam_link
+       })
+    for produkt in lista:
+        print(f"Nazwa: {produkt['nazwa_produktu']}\n  Link do produktu: {produkt['link']}\n")
