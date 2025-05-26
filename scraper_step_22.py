@@ -30,29 +30,52 @@ with open("plik1.csv", "r", encoding="utf-8") as csvfile:
 
             description_selector1 = soup.find("div", attrs={"data-sentry-element": "Container"})
             description_selector2 = soup.find("div", attrs={"data-sentry-element": "StyledListContainer"})
+            description_selector3 = soup.find("div", attrs={"data-sentry-component": "AdDescriptionBase"})
 
             if not description_selector1:
-                print("🚫 Nie znaleziono opisu 1")
+                print("🚫 Nie znaleziono selektora 1")
             elif not description_selector2:
-                print("🚫 Nie znaleziono opisu 2")
+                print("🚫 Nie znaleziono selektora 2")
+            elif not description_selector3:
+                print("🚫 Nie znaleziono selektora 3")
             else:
                 price = description_selector1.find("strong", attrs={"data-cy": "adPageHeaderPrice"})
                 price_per_sqm = description_selector1.find("div", attrs={"aria-label": "Cena za metr kwadratowy"})
                 location = description_selector1.find("a", attrs={"data-sentry-element": "StyledLink"})
                 area = description_selector2.find("div", attrs={"data-sentry-element": "ItemGridContainer"})
+                ''' description = description_selector3.find_all("p")'''
+                if description_selector3:
+                    span_element = description_selector3.find("span")
+                    if span_element:
+                        first_paragraph = span_element.find("p")
+                        description_text = first_paragraph.get_text(strip=True) if first_paragraph else "Nie dostępne"
+                    else:
+                        description_text = "Nie znaleziono span w sekcji opisu"
+                else:
+                    description_text = "Nie znaleziono div z opisem"
+                    
+
+                
 
                 price_text = price.text.strip() if price else "Nie dostępne"
                 price_per_sqm_text = price_per_sqm.text.strip() if price_per_sqm else "Nie dostępne"
                 location_text = location.text.strip() if location else "Nie dostępne"
                 area_text = area.text.strip() if area else "Nie dostępne"
+                '''description_text = description[1].get_text(strip=True) if description else "Nie dostępne"'''
+
+
+            
+
                 offer = {
                     "price": price_text,
                     "price_per_m2": price_per_sqm_text,
                     "link_to_offer": full_link,
                     "district": location_text,
-                    "area": area_text
+                    "area": area_text,
+                    "descrption": description_text
                 }
 
+                
                 print(f"Offer {number}")
                 print(json.dumps(offer, indent=4, ensure_ascii=False))
                 offers.append(offer)
